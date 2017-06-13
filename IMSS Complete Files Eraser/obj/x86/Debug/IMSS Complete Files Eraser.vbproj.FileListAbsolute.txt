@@ -1,0 +1,14 @@
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Complete Files Eraser\IMSS Complete Files Eraser\bin\Debug\IMSS Complete Files Eraser.exe.config
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Complete Files Eraser\IMSS Complete Files Eraser\bin\Debug\IMSS Complete Files Eraser.exe
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Complete Files Eraser\IMSS Complete Files Eraser\bin\Debug\IMSS Complete Files Eraser.pdb
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Complete Files Eraser\IMSS Complete Files Eraser\bin\Debug\IMSS Complete Files Eraser.xml
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Complete Files Eraser\IMSS Complete Files Eraser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Complete Files Eraser\IMSS Complete Files Eraser\obj\x86\Debug\IMSS_Complete_Files_Eraser.IMSS_Main.resources
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Complete Files Eraser\IMSS Complete Files Eraser\obj\x86\Debug\IMSS_Complete_Files_Eraser.IMSS_Settings.resources
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Complete Files Eraser\IMSS Complete Files Eraser\obj\x86\Debug\IMSS_Complete_Files_Eraser.MainWindow.resources
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Complete Files Eraser\IMSS Complete Files Eraser\obj\x86\Debug\IMSS_Complete_Files_Eraser.Resources.resources
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Complete Files Eraser\IMSS Complete Files Eraser\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Complete Files Eraser\IMSS Complete Files Eraser\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Complete Files Eraser\IMSS Complete Files Eraser\obj\x86\Debug\IMSS Complete Files Eraser.exe
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Complete Files Eraser\IMSS Complete Files Eraser\obj\x86\Debug\IMSS Complete Files Eraser.xml
+C:\Users\User\documents\visual studio 2010\Projects\IMSS Complete Files Eraser\IMSS Complete Files Eraser\obj\x86\Debug\IMSS Complete Files Eraser.pdb

@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="LabelX2.Text" xml:space="preserve">
+    <value>Your first thought may be that when you ‘delete’ the file, the data is gone. Not quite, when you delete a file, the operating system does not really remove the file from the disk; it only removes the reference of the file from the file system table. The file remains on the disk until another file is created over it, and even after that, it might be possible to recover data by studying the magnetic fields on the disk platter surface.
+&lt;b&gt;IMSS Complete Files Eraser&lt;/b&gt; is advanced security tool for Windows which allows you to completely remove sensitive data from your hard drive by overwriting it several times with carefully selected patterns.</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="PictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+</value>
+  </data>
+  <metadata name="_IMSS_FolderBrowser.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="_IMSS_OpenFile.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>188, 17</value>
+  </metadata>
+  <metadata name="_IMSS_CoreDeleter.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>326, 17</value>
+  </metadata>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>61</value>
+  </metadata>
+</root>
